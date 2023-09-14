@@ -1,0 +1,10 @@
+ultralytics
+numpy
+matplotlib
+Flask
+wtforms
+googletrans==3.1.0a0
+playsound==1.2.2
+flask_wtf
+opencv-python
+gtts
